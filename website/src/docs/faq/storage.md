@@ -46,6 +46,7 @@ The following illustrates the folder structure:
                     <span class="file cbz">Chapter01<span class="file-extension">.cbz</span></span>
                   </li>
                   <li>
+                    
                     <img src="/img/zip.svg" alt="Compressed File" class="tree-icon icon-cbz">
                     <span class="file cbz">...</span>
                   </li>
